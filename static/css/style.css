@@ -1,0 +1,12 @@
+footer {
+    list-style-type: none;
+    display: flex;
+
+}
+
+footer > a {
+    padding: 1em;
+    text-decoration: none;
+    color: rebeccapurple;
+    font-size: 20px;
+}
